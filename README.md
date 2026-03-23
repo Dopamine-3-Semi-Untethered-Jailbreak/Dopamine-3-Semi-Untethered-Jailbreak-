@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://cutt.ly/Stg5oQF7">
+  <a href="https://cutt.ly/ftOd3mTV">
     <img src="https://img.shields.io/badge/Open_Dopamine_3_Pro_Guide-8B5CF6?style=for-the-badge&logo=dopamine&logoColor=white"
          height="84"
          style="border-radius:42px; box-shadow:0 20px 60px rgba(139,92,246,0.6);">
